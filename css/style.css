@@ -590,7 +590,7 @@ h1 {
 .white-line {
     width: 74px;
     height: 2px;
-    margin-top: 26px auto 23px;
+    margin: 26px auto 23px;
     background-color: #ffffff;
     border: none;
 }
