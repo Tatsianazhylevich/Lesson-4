@@ -272,6 +272,9 @@ input {
 }
 
 /* ====================PROCESS=============================== */
+.process {
+    padding-top: 109px;
+}
 
 .process__header--title {
     margin: 0;
